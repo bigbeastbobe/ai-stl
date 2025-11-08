@@ -1,0 +1,12 @@
+{
+  "name": "ai-stl-generator",
+  "version": "1.0.0",
+  "description": "AI-powered 3D model generator that creates STL files from text prompts",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["3d-printing", "stl", "ai", "generator", "claude"],
+  "author": "Your Name",
+  "license": "MIT"
+}
